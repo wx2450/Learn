@@ -1,0 +1,6 @@
+[console_scripts]
+joint_monitor = pj1_basics.joint_monitor:main
+message_publisher = pj1_basics.message_publisher:main
+message_subscriber = pj1_basics.message_subscriber:main
+minimal_node = pj1_basics.minimal_node:main
+virtual_arm = pj1_basics.virtual_arm:main

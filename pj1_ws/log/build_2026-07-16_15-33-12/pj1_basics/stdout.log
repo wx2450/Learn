@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/pj1_basics/pj1_basics.egg-info
+writing ../../build/pj1_basics/pj1_basics.egg-info/PKG-INFO
+writing dependency_links to ../../build/pj1_basics/pj1_basics.egg-info/dependency_links.txt
+writing entry points to ../../build/pj1_basics/pj1_basics.egg-info/entry_points.txt
+writing requirements to ../../build/pj1_basics/pj1_basics.egg-info/requires.txt
+writing top-level names to ../../build/pj1_basics/pj1_basics.egg-info/top_level.txt
+writing manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+reading manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+writing manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/wx/Learn/pj1_ws/build/pj1_basics/build
+creating /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib
+creating /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+copying pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+copying pj1_basics/__init__.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+running install
+running install_lib
+creating /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/__init__.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/minimal_node.py to minimal_node.cpython-312.pyc
+byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/wx/Learn/pj1_ws/install/pj1_basics/share/ament_index
+creating /home/wx/Learn/pj1_ws/install/pj1_basics/share/ament_index/resource_index
+creating /home/wx/Learn/pj1_ws/install/pj1_basics/share/ament_index/resource_index/packages
+copying resource/pj1_basics -> /home/wx/Learn/pj1_ws/install/pj1_basics/share/ament_index/resource_index/packages
+copying package.xml -> /home/wx/Learn/pj1_ws/install/pj1_basics/share/pj1_basics
+running install_egg_info
+Copying ../../build/pj1_basics/pj1_basics.egg-info to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics-0.0.0-py3.12.egg-info
+running install_scripts
+Installing minimal_node script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+writing list of installed files to '/home/wx/Learn/pj1_ws/build/pj1_basics/install.log'

@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/pj1_basics/pj1_basics.egg-info/PKG-INFO
+writing dependency_links to ../../build/pj1_basics/pj1_basics.egg-info/dependency_links.txt
+writing entry points to ../../build/pj1_basics/pj1_basics.egg-info/entry_points.txt
+writing requirements to ../../build/pj1_basics/pj1_basics.egg-info/requires.txt
+writing top-level names to ../../build/pj1_basics/pj1_basics.egg-info/top_level.txt
+reading manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+writing manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pj1_basics/message_publisher.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+copying pj1_basics/message_subscriber.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+copying pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+running install
+running install_lib
+copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/message_publisher.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/message_subscriber.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/message_publisher.py to message_publisher.cpython-312.pyc
+byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/message_subscriber.py to message_subscriber.cpython-312.pyc
+byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/minimal_node.py to minimal_node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/pj1_basics/pj1_basics.egg-info to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics-0.0.0-py3.12.egg-info
+running install_scripts
+Installing message_publisher script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+Installing message_subscriber script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+Installing minimal_node script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+writing list of installed files to '/home/wx/Learn/pj1_ws/build/pj1_basics/install.log'

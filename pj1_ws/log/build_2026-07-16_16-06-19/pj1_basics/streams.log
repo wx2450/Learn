@@ -1,0 +1,32 @@
+[0.396s] Invoking command in '/home/wx/Learn/pj1_ws/src/pj1_basics': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(.venv) PYTHONPATH=/home/wx/Learn/pj1_ws/build/pj1_basics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pj1_basics build --build-base /home/wx/Learn/pj1_ws/build/pj1_basics/build install --record /home/wx/Learn/pj1_ws/build/pj1_basics/install.log --install-scripts $base/lib/pj1_basics --single-version-externally-managed install_data
+[0.523s] running egg_info
+[0.532s] writing ../../build/pj1_basics/pj1_basics.egg-info/PKG-INFO
+[0.532s] writing dependency_links to ../../build/pj1_basics/pj1_basics.egg-info/dependency_links.txt
+[0.532s] writing entry points to ../../build/pj1_basics/pj1_basics.egg-info/entry_points.txt
+[0.533s] writing requirements to ../../build/pj1_basics/pj1_basics.egg-info/requires.txt
+[0.533s] writing top-level names to ../../build/pj1_basics/pj1_basics.egg-info/top_level.txt
+[0.550s] reading manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+[0.550s] writing manifest file '../../build/pj1_basics/pj1_basics.egg-info/SOURCES.txt'
+[0.550s] running build
+[0.550s] running build_py
+[0.550s] copying pj1_basics/message_publisher.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+[0.550s] copying pj1_basics/message_subscriber.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+[0.550s] copying pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics
+[0.550s] running install
+[0.554s] running install_lib
+[0.563s] copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/message_publisher.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+[0.563s] copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/message_subscriber.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+[0.563s] copying /home/wx/Learn/pj1_ws/build/pj1_basics/build/lib/pj1_basics/minimal_node.py -> /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics
+[0.563s] byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/message_publisher.py to message_publisher.cpython-312.pyc
+[0.564s] byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/message_subscriber.py to message_subscriber.cpython-312.pyc
+[0.564s] byte-compiling /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics/minimal_node.py to minimal_node.cpython-312.pyc
+[0.564s] running install_data
+[0.564s] running install_egg_info
+[0.574s] removing '/home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics-0.0.0-py3.12.egg-info' (and everything under it)
+[0.574s] Copying ../../build/pj1_basics/pj1_basics.egg-info to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages/pj1_basics-0.0.0-py3.12.egg-info
+[0.574s] running install_scripts
+[0.641s] Installing message_publisher script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+[0.641s] Installing message_subscriber script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+[0.641s] Installing minimal_node script to /home/wx/Learn/pj1_ws/install/pj1_basics/lib/pj1_basics
+[0.641s] writing list of installed files to '/home/wx/Learn/pj1_ws/build/pj1_basics/install.log'
+[0.658s] Invoked command in '/home/wx/Learn/pj1_ws/src/pj1_basics' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(.venv) PYTHONPATH=/home/wx/Learn/pj1_ws/build/pj1_basics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wx/Learn/pj1_ws/install/pj1_basics/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(.venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pj1_basics build --build-base /home/wx/Learn/pj1_ws/build/pj1_basics/build install --record /home/wx/Learn/pj1_ws/build/pj1_basics/install.log --install-scripts $base/lib/pj1_basics --single-version-externally-managed install_data
